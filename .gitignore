@@ -1,0 +1,16 @@
+./env/*
+myenv/*
+venv/*
+*.env
+*yaml
+*csv
+*xlsx
+*json
+TP/*
+data/*
+temp.html
+TRASH/*
+*pycache*
+__pycache__/
+*log*
+*temp*
