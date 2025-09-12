@@ -13,4 +13,8 @@ TRASH/*
 *pycache*
 __pycache__/
 *log*
-*temp*
+*temp_file*
+*pyenv*
+*venv*
+*myenv*
+*sqlite3*
